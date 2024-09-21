@@ -1,6 +1,9 @@
 **Project Overview
-**This REST API project is built using Node.js and Express.js, designed to provide a structured backend solution for managing user data. It features a modular architecture with separate controllers and routes, allowing for easy scalability and maintainability. Utilizing JSON for data handling, the API ensures efficient communication between the server and client applications.
+**This REST API project is built using Node.js and Express.js, designed to provide a structured backend solution for managing user data. It features a modular architecture with separate controllers and routes, allowing for easy scalability and maintainability. 
+
+Utilizing JSON for data handling, the API ensures efficient communication between the server and client applications.
 Technical Implementation Methodology
+
 Project Setup:
 
 Initialized a Node.js project using npm, creating a package.json file to manage dependencies.
