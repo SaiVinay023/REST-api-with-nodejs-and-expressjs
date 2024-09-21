@@ -20,7 +20,7 @@ users.json: Used a JSON file to simulate a database for user data, allowing easy
 API Endpoints:
 
 Defined RESTful API endpoints for user operations:
-GET /users: Retrieve all users.
+  GET /users: Retrieve all users.
 GET /users/:id: Retrieve a specific user by ID.
 POST /users: Create a new user.
 PUT /users/:id: Update an existing user.
